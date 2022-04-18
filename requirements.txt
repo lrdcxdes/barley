@@ -1,0 +1,10 @@
+aiogram
+aiofile
+Flask
+APScheduler
+rich
+pytz
+Pillow
+aiohttp
+psutil
+numpy
